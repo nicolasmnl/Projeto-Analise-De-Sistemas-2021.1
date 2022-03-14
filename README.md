@@ -29,6 +29,10 @@ Nesse âmbito, pensamos no projeto *De Olho Na Água*, um sistema web de control
 - [HTML5]
 - [CSS]
 
+## Documentation
+
+Você pode acompanhar toda a documentação do Projeto, com Requisitos Funcionais e Não-Funcionais, Diagramas de Casos de Uso, Interação, Sequência, Atividade e outros no link a seguir: https://docs.google.com/document/d/1mDe2hbzU8SIDE9nR7hFkvGTtT39XaSrro38MtWJsSVM/edit#
+
 
 
 
